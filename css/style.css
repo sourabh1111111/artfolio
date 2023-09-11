@@ -118,9 +118,9 @@ main > #showcase > ul > li > img {
   width: 100%;
 }
 
-main > #showcase > ul > li > p {
+/* main > #showcase > ul > li > p {
 
-}
+} */
 
 /* -- END MAIN -- */
 
@@ -135,4 +135,11 @@ footer {
 }
 
 
-/* -- END FOOTER -- */
+/* -- a little bit more FOOTER -- */
+
+ footer {
+  background-color: var(--secondary-black);
+  color: var(--primary-white);
+  padding: 1rem;
+} 
+/* END FOOTER */
